@@ -1,0 +1,1 @@
+# Basic test for note logic
