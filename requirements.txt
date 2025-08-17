@@ -1,9 +1,10 @@
 fastapi
-uvicorn
-python-dotenv
-supabase
-openai
-qdrant-client
+uvicorn[standard]
+pydantic
 pydantic-settings
-python-jose
-passlib
+supabase
+qdrant-client
+slowapi
+python-dotenv
+httpx
+supabase_auth
