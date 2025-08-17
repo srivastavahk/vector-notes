@@ -1,1 +1,9 @@
-# Python dependencies
+fastapi
+uvicorn
+python-dotenv
+supabase
+openai
+qdrant-client
+pydantic-settings
+python-jose
+passlib
