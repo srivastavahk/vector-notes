@@ -16,7 +16,7 @@ A scalable and secure backend for a notes management application built with Fast
 
 1.  **Prerequisites**:
     - Python 3.9+
-    - Supabase, Qdrant, and Google AI accounts.
+    - Supabase, Qdrant, and ~~Google~~ Jina AI accounts.
 
 2.  **Clone the repository**:
     ```bash
