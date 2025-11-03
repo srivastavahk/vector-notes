@@ -1,8 +1,8 @@
-# Notes Management API 🚀
+# Notes Management API
 
 A scalable and secure backend for a notes management application built with FastAPI, Supabase, Qdrant, and ~~Google Gemini~~ Jina AI.
 
-## Features ✨
+## Features
 
 - **User Management**: Secure authentication via Supabase.
 - **CRUD Operations**: Full Create, Read, Update, Delete for user notes.
